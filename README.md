@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-End and Java language
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: reginildosousa01@gmail.com
-- <div align="center">
+<div align="center">
   <a href="https://github.com/gnormor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnormor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnormor&layout=compact&langs_count=7&theme=dracula"/>
